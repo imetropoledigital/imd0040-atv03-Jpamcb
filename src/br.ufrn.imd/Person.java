@@ -4,7 +4,10 @@ public class Person{
 	String name;
 	String hometown;
 	
-	Person();
+	Person(){
+		name = " ";
+		hometown = " ";
+	}
 	
 	public String hometown(){
 		return " ";
