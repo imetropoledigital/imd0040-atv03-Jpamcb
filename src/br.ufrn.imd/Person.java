@@ -10,10 +10,10 @@ public class Person{
 	}
 	
 	public String hometown(){
-		return " ";
+		return hometown;
 	}
 	public String name(){
-		return " ";
+		return name;
 	}
 		
 }
