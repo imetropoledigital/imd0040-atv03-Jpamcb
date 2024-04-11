@@ -1,3 +1,5 @@
+package br.ufrn.imd;
+
 public class Person{
 	String name;
 	String hometown;
