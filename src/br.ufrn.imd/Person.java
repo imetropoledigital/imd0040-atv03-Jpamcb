@@ -6,6 +6,11 @@ public class Person{
 	
 	Person();
 	
-	public String hometown();
-	public String name();
+	public String hometown(){
+		return " ";
+	}
+	public String name(){
+		return " ";
+	}
+		
 }
