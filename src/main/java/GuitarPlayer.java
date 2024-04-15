@@ -5,7 +5,7 @@ public class GuitarPlayer extends Musician{
 	boolean playEletronicGuitar;
 	boolean playAcousticGuitar;
 	
-	GuitarPlayer(){
+	Public GuitarPlayer(){
 		howManyYears = 0;
 		playEletronicGuitar = false;
 		playAcousticGuitar = false;
