@@ -1,8 +1,8 @@
 package br.ufrn.imd;
 
 public class Person{
-	String name;
-	String hometown;
+	public String name;
+	public String hometown;
 	
 	Person(){
 		name = " ";
