@@ -5,7 +5,13 @@ public class GuitarPlayer extends Musician{
 	boolean playEletronicGuitar;
 	boolean playAcousticGuitar;
 	
-	GuitarPlayer();
+	GuitarPlayer(){
+		howManyYears = 0;
+		playEletronicGuitar = false;
+		playAcousticGuitar = false;
+	}
 	
-	public void playGuitar();
+	public void playGuitar(){
+
+	}
 }
