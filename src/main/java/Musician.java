@@ -1,9 +1,9 @@
 package br.ufrn.imd;
 
 public class Musician extends Person{
-	boolean playClassicalMusic;
-	boolean canImprovise;
-	boolean canCompose;
+	public boolean playClassicalMusic;
+	public boolean canImprovise;
+	public boolean canCompose;
 	
 	Musician(){
 		playClassicalMusic = false;
