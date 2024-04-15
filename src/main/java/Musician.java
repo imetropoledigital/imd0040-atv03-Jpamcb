@@ -5,7 +5,7 @@ public class Musician extends Person{
 	boolean canImprovise;
 	boolean canCompose;
 	
-	Public Musician(){
+	Musician(){
 		playClassicalMusic = false;
 		canImprovise = false;
 		canCompose = false;
