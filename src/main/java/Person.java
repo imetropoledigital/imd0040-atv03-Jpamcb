@@ -4,7 +4,7 @@ public class Person{
 	String name;
 	String hometown;
 	
-	Public Person(){
+	Person(){
 		name = " ";
 		hometown = " ";
 	}
